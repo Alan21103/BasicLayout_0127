@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="400" alt="Dart Logo"> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="200" alt="Dart Logo"> </p>
 
 
 # Weather App
